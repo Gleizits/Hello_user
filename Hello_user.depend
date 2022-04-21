@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650584479 source:d:\geiss\proyectos\hello user\hello_user\main.cpp
+	<iostream>
+	<conio.h>
+
